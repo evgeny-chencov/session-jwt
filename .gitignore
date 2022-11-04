@@ -10,6 +10,10 @@ yarn-error.log*
 server/.env
 
 #other
+node_modules
+yarn.lock
 server/node_modules
 server/yarn.lock
+client/node_modules
+client/yarn.lock
 .idea
